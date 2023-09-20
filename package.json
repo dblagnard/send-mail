@@ -1,0 +1,15 @@
+{
+  "name": "sendmail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sendMAil.js",
+  "scripts": {
+    "dev": "nodemon sendMail.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.9.4"
+  }
+}
